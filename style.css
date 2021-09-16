@@ -26,12 +26,14 @@ body {
 
 .page-logo {
   width: 125px;
-  position: center;
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
 }
 
 .sticker-me {
   width: 30px;
-  position: absolute;
+  position: fixed;
   down: 10px;
   right: 10px;
 }
